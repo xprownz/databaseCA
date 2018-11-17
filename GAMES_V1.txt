@@ -1,0 +1,29 @@
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("WZI25LHK6SP","fermentum vel,",1),("VCR93FEG7WX","elit, dictum",1),("TXY30BSS0LZ","Tomb Raider",1),("GZF85ETJ9DA","felis, adipiscing",1);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("PRN96YCM4WD","dui, in",1),("EYS22CNA3LI","Lorem ipsum",1),("GOP03AQF2UL","Need for Speed 2",1),("ORI85QDV3XW","metus vitae",1);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("XMI23IYP6ZA","purus, accumsan",1),("SUL16PGH0TU","Tomb Raider",1),("XYF51CTD2DQ","Aenean massa.",1),("LHI18JLO6ZQ","sapien, cursus",1);
+
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("VFS62OVM0MK","eros. Proin",2),("KUO30TFM4QE","auctor, velit",2),("DSF39DDO6YF","Need for Speed 2",2),("FQB87XXB0NG","fringilla, porttitor",2);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("VFH54ZRA5QL","Red dead redemption",2),("IPD10IAH8SQ","fringilla ornare",2),("VDB37JDM5HW","Fortnight",2),("RJE75FBJ9VV","diam eu",2);
+
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("DLQ56YRO5ME","sagittis. Duis",3),("DAL29YTA1TT","Need for Speed 2",3),("NZJ37UBP9OD","Need for Speed 2",3),("CIS83GSG8PW","Need for Speed 2",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("MYC62BKM1AJ","ante. Vivamus",3),("DKS14BZA5JB","Tomb Raider",3),("YPZ76UTE3OC","Need for Speed 2",3),("RZG65DYC7ED","lobortis mauris.",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("QRF45RUT8EJ","orci luctus",3),("IFY78HXT0UZ","Fortnight",3),("YQB02YRJ1IV","tincidunt aliquam",3),("CYC32GTY9GE","eget magna.",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("GKD35WAV8IX","Need for Speed 2",3),("TLR41EAL7TN","Tomb Raider",3),("JZZ29FYK1KH","dapibus quam",3),("BRE30RKW2CO","vehicula risus.",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("SHC06VSV9QJ","Fallout 4",3),("TIY54VRF9PC","Red dead redemption",3),("OMZ81WFT4ST","luctus, ipsum",3),("LXI69YXC1ZH","iaculis enim,",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("OKK81CTD8BZ","Fallout 4",3),("EIA91AVD6KZ","Tomb Raider",3),("CKV89IVJ9QE","nulla vulputate",3),("BBU62VVP8PC","non massa",3);
+
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("CQJ18WHX6CX","aliquet libero.",4),("MNU10LLD1JX","a nunc.",4),("OWK57CWF4TL","Integer mollis.",4),("EET54TGP4ZI","dis parturient",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("PPA20VDJ3FS","Fallout 4",4),("NAA77LUA1NP","at, nisi.",4),("GYC09CQM6TM","Tomb Raider",4),("PEP88WGG1PM","adipiscing fringilla,",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("LKJ86WZE4EK","lorem ipsum",4),("DBL19XUB8WM","Curabitur vel",4),("CUN76DFD4KX","vehicula aliquet",4),("DTQ05WIS9BA","diam nunc,",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("AZS33KTH5YH","hendrerit neque.",4),("ORH73NRW3QP","Red dead redemption",4),("LQF82WNL3YY","lobortis quis,",4),("GTS78GSM1LO","Donec consectetuer",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("WFE83HRG5QA","blandit viverra.",4),("HIU15YIN1BX","Need for Speed 2",4),("FHY76POF6RA","pretium et,",4),("OOL94RRL6YW","mattis ornare,",3);
+
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("JHJ16WWC2NE","arcu iaculis",5),("PZN62HBQ6LM","Need for Speed 2",5),("KER31IMV1FS","Integer vitae",5),("USH76WXQ3XM","quis diam.",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("AEY02BOG9PD","dui, semper",5),("LET57XNG6XG","Need for Speed 2",5),("ZGX25GIJ0DY","Fortnight",5),("VGB32PBJ9VV","luctus vulputate,",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("RME78HFG2MV","Red dead redemption",5),("TBQ00GXV3QE","Fallout 4",5),("EIX64KNX8AB","Tomb Raider",5),("XRQ90GAU3TI","nunc nulla",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("DCR28SOJ3NY","nec ante",5),("NVU94BGE9KO","Fortnight",5),("NUS81GSI7HG","Red dead redemption",5),("EER03WLI7RP","ut eros",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("SKX02DPF0EK","diam lorem,",5),("RNL83YSO1JH","dolor. Fusce",5),("NZW14INL7HB","Fortnight",5),("DWI84GHM4ZP","Aliquam erat",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("DPG16HDH5IU","Red dead redemption",5),("CHY95QCB0LD","Fortnight",5),("GNC52VQE8KS","Mauris ut",5),("GGQ15VWZ1UU","quis accumsan",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("UVI56XZL6HK","Red dead redemption",5),("MLV53FAD3OI","tempor lorem,",5),("ZIS36UMY2NH","enim nec",5),("OAG28UFE8KB","sed tortor.",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("VFU03AAG3NM","Fortnight",5),("RXM41RXW9VE","Fallout 4",5),("CUD89LIV7XD","tellus. Suspendisse",5),("CWD41CHK0SQ","Tomb Raider",3);
+INSERT INTO GAMES (GAME_ID,GAME_NAME,STORE_ID) VALUES ("UYY65FMB8DV","Fallout 4",5),("JGS05KJW2WK","nonummy ultricies",5),("BCD74QAB7SO","Fortnight",5),("ERD73UTK8PX","Tomb Raider",3);
